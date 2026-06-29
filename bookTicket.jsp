@@ -50,6 +50,7 @@
   </div>
   <a href="index.jsp" id="back-link">&#8592; Back to Home</a>
 </div>
+<br><br>
 <footer id="footer">
   Made from <a href="index.jsp" id="footer-link">SANJAY KUMARAN</a> Portal
 </footer>
